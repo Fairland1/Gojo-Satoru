@@ -3602,7 +3602,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"title": "نبذة",
 								"rows": [
 									{
-										"title": "تاريخ مملكة غولد",
+										"title": "مملكة ستارك",
 										"description": ".18.",
 										"rowId": `${prefix}tqtt`
 									}
@@ -3980,7 +3980,7 @@ case 'ownermenu':
 var unicorn = await getBuffer(picak+'.3.')
 await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━「 ${botname} 」━━⭓ 
-┃╔═✪「 المالك 」	        
+┃╔═✪「 المالك انوس 」	        
 ┃╠انضم
 ┃╠غادر
 ┃╠حطها.خلفيتك
